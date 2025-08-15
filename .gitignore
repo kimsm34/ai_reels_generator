@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtualenv
+venv/
+
+# Assets to ignore
+images/
+audio/
+
+# Video build outputs
+video/
+music/
+
+# MacOS
+.DS_Store
+
+credentials/
+
+.env
